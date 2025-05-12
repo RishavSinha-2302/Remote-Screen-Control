@@ -1,0 +1,45 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment folders
+env/
+venv/
+ENV/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# macOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Tkinter and GUI related temp files (if any)
+*.log
+
+# Pycharm project files
+.idea/
+
+# Screenshot cache (unlikely but just in case)
+*.png
+*.jpg
+
+# Backup or temp files
+*.bak
+*.swp
+*.tmp
